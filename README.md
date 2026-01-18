@@ -41,4 +41,6 @@ Network-Traffic-Intelligence/
 │   └── alerting_logic.py   # 3-Sigma anomaly detection logic
 ├── results/                # High-resolution plots (Loss, Forecast, Alerts)
 ├── README.md               # Project documentation
-└── requirements.txt        # TensorFlow, Pandas, NumPy, Scikit-learn
+└── requirements.txt        # TensorFlow, Pandas, NumPy, Scikit-learn 
+
+
