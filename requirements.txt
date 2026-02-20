@@ -1,8 +1,2 @@
-tensorflow>=2.15.0
-pandas
-numpy
-matplotlib
-scikit-learn
-seaborn
 flask
-gunicorn
+numpy
