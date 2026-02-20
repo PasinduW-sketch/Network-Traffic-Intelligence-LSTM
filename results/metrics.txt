@@ -1,0 +1,8 @@
+Network Traffic Intelligence - Model Performance
+==================================================
+
+R² Score:     0.8724 (87.24%)
+MAE:          4.2513 GB
+RMSE:         5.4209 GB
+MAPE:         10.18%
+3-Sigma:      12.7538 GB
